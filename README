@@ -1,0 +1,1 @@
+Code to publish temperature measurements from a simple probe made with a DHT 22 temperature sensor and an ESP8266. Publishes to RabittMQ.
